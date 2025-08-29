@@ -104,7 +104,7 @@ export default function FormulaireConcours() {
               className="mt-1 w-4 h-4 text-purple-600 border-gray-300 rounded focus:ring-purple-500"
             />
             <label htmlFor="consent" className="text-sm text-gray-700 leading-tight">
-              J'accepte de recevoir des informations commerciales par email et téléphone
+              J&apos;accepte de recevoir des informations commerciales par email et téléphone
             </label>
           </div>
 
